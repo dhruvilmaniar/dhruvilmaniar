@@ -14,9 +14,9 @@ Final year Engineering student, with deep interest in Computer Vision and its Ap
 I was never interested in web development. Then I got to learn `ReactJS`. :star_struck: :heartbeat:
 
 
-**Visit my [Github](https://github.com/dhruvilmaniar) or [LinkedIn](https://linkedin.com/in/dhruvilmaniar) profile to know more about me.**
+**Visit my [LinkedIn](https://linkedin.com/in/dhruvilmaniar) profile to know more about me.**
 
-You can also checkout [My Webpage](https://dhruvilmaniar.github.io/dhruvil-maniar). (Under development.)
+Also, don't forget to checkout [My Website](https://dhruvilmaniar.github.io/).
 
 
 Apart from programming, I also love `Puns` and `Paneer`.
