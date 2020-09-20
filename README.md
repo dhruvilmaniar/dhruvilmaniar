@@ -16,7 +16,6 @@ I was never interested in web development. Then I got to learn `ReactJS`. :star_
 
 **Visit my [LinkedIn](https://linkedin.com/in/dhruvilmaniar) profile to know more about me.**
 
-Also, don't forget to checkout [My Website](https://dhruvilmaniar.github.io/).
 
 
 Apart from programming, I also love `Puns` and `Paneer`.
