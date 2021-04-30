@@ -11,12 +11,6 @@ Final year Engineering student, with deep interest in Computer Vision and its Ap
 * **Data handling** : Numpy, Pandas, Seaborn, Matplotlib.
 * **Web**           : React.js, Flask, Django.
 
-I was never interested in web development. Then I got to learn `ReactJS`. :star_struck: :heartbeat:
-
-
-**Visit my [LinkedIn](https://linkedin.com/in/dhruvilmaniar) profile to know more about me.**
-
-
 
 Apart from programming, I also love `Puns` and `Paneer`.
-Reach me at [dhruvilmaniar@gmail.com](https://mail.google.com/mail/u/dhruvilmaniar@gmail.com) if you have a good joke to share, or want to share *your* North Indian food :p !
+Reach me at **dhruvilmaniar at gmail dot com** if you have a good joke to share, or want to share *your* North Indian food :p !
