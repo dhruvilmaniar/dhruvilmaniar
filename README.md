@@ -1,16 +1,10 @@
 ## Dhruvil Maniar
 
-Final year Engineering student, with deep interest in Computer Vision and its Applications.
+Software developer, Vision intelligence enthusiast.
 
-#### Languages known :
-* Efficient in  : Python, C++, C and Javascript.
-* Familiar with : Java, Dart.
+Efficient in Python, Javascript, C++ and C.
 
-#### Frameworks known :
-* **ML / DL / CV**  : `tensorflow(2.x, 1.x)`, `Keras`, `OpenCV`, Scipy, Pillow, sklearn.
-* **Data handling** : Numpy, Pandas, Seaborn, Matplotlib.
-* **Web**           : React.js, Flask, Django.
+Most of the time, I do stuff related to vision - In Python (or in C++ where latency matters). In my spare time, I explore Javascript and React applications.
 
 
-Apart from programming, I also love `Puns` and `Paneer`.
-Reach me at **dhruvilmaniar at gmail dot com** if you have a good joke to share, or want to share *your* North Indian food :p !
+Reach me at **dhruvilmaniar [at] gmail [dot] com** or connect with me on [LinkedIn](https://linkedin.com/in/dhruvilmaniar) if you have a good joke to share, or just want to have a quick chat.
